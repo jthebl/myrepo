@@ -5,4 +5,4 @@ New Line from RStuido.
 
 New Line from GitKraken.
 
-NewBranch - New for new branch called "NewBranch".
+New Line 2 only in Main Branch. 
