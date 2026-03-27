@@ -5,4 +5,4 @@ New Line from RStuido.
 
 New Line from GitKraken.
 
-BranchNew - New line for the branch version of ReadMe. 
+NewBranch - New for new branch called "NewBranch".
